@@ -1,5 +1,5 @@
 # VSCaptureCLI
-Part of the VSCapture project, command line app that integrates the capability to capture from several classes of medical device protocols
+Part of the VSCapture project, command line app that integrates the capability of capturing data from several classes of medical device protocols
 
 VSCaptureCLI (C) 2024 John George K.
 
