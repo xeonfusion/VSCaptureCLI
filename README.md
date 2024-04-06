@@ -7,6 +7,6 @@ To run the app use the following command in Command Prompt (Windows) or Terminal
 
 “dotnet VSCaptureCLI.dll”
 
-Requires Microsoft dotnet 7.0 runtime to be installed prior https://dotnet.microsoft.com/en-us/download 
+Requires Microsoft dotnet 8.0 runtime to be installed prior https://dotnet.microsoft.com/en-us/download 
 
 Project Site: https://sourceforge.net/projects/vscapture/ and https://github.com/xeonfusion/VSCaptureCLI
